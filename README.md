@@ -1,6 +1,6 @@
 # WeatherAPI
 
-Eu construi um site simples utilizando HTML, CSS e JavaScript, utilizando uma API de clima ja existente do google
+Eu construi um site simples utilizando HTML, CSS, JavaScript e Bootstrap, utilizando uma API de clima ja existente do google
 
 #
 
